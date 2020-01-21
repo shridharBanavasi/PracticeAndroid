@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='bottom_and_drawere_nav'
